@@ -1,0 +1,15 @@
+body{
+    background: rgb(219, 193, 154);
+    background-size: 20px;
+    font-family: montserrat, roboto;
+}
+
+h1{
+    font-family: roboto;
+    font-size: bold;
+}
+
+ul{
+    font-family: arial, san-serif;
+    font-size: medium;
+}
